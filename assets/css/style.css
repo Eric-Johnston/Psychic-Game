@@ -1,0 +1,12 @@
+header{
+    padding: 25px 0 25px 0;
+    background-color: #ebebeb;
+}
+.psychic{
+    font-size: 38px;
+    text-align: left;
+}
+.game{
+    font-size: 38px;
+    text-align: right;
+}
