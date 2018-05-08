@@ -1,12 +1,31 @@
-header{
-    padding: 25px 0 25px 0;
-    background-color: #ebebeb;
+.nav{
+    font-size: 70px;
+    float: none;
 }
-.psychic{
-    font-size: 38px;
-    text-align: left;
+.nav a{
+    color: white;
 }
-.game{
-    font-size: 38px;
-    text-align: right;
+.img{
+    border: solid #007bff;
+}
+.instruction{
+    font-size: 50px;
+}
+.winloss{
+    color: aliceblue;
+    background-color: #343a40;
+    font-size: 40px;
+    line-height: 80px;
+}
+.guess{
+    color: aliceblue;
+    background-color: #343a40;
+    font-size: 30px;
+    line-height: 80px;
+}
+.comp{
+    color: aliceblue;
+    background-color: #343a40;
+    font-size: 40px;
+    line-height: 80px;
 }
